@@ -1,0 +1,12 @@
+com/focusmate/model/Subtask.class
+com/focusmate/client/dto/ChatResponse$Message.class
+com/focusmate/model/Checkin.class
+com/focusmate/dto/CoachMessageRequest.class
+com/focusmate/client/AiClient.class
+com/focusmate/model/User.class
+com/focusmate/model/Task.class
+com/focusmate/client/dto/ChatResponse$Choice.class
+com/focusmate/client/dto/ChatRequest.class
+com/focusmate/dto/CreateTaskRequest.class
+com/focusmate/client/AiClientHeaders.class
+com/focusmate/client/dto/ChatResponse.class

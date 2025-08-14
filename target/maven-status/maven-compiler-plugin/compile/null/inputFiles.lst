@@ -1,0 +1,10 @@
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/client/AiClient.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/client/AiClientHeaders.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/client/dto/ChatRequest.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/client/dto/ChatResponse.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/dto/CoachMessageRequest.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/dto/CreateTaskRequest.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/model/Checkin.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/model/Subtask.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/model/Task.java
+/Users/zeriab/Downloads/FocusMate-AI-master/src/main/java/com/focusmate/model/User.java
