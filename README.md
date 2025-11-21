@@ -1,6 +1,5 @@
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+   ## About The Project
+   
 
 **FocusMate AI** is a mobile-first ADHD assistant app that helps users **stay focused, manage tasks, and feel supported**.  
 It combines **React Native** for the mobile app, **Java Quarkus** for the backend, and **AI** for personalized task management and coaching.  
